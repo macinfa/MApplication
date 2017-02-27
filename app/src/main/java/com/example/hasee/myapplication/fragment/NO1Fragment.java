@@ -10,14 +10,7 @@ import android.view.ViewGroup;
 
 import com.example.hasee.myapplication.R;
 
-/**
- * A simple {@link Fragment} subclass.
- * Activities that contain this fragment must implement the
- * {@link NO1Fragment.OnFragmentInteractionListener} interface
- * to handle interaction events.
- * Use the {@link NO1Fragment#newInstance} factory method to
- * create an instance of this fragment.
- */
+
 public class NO1Fragment extends Fragment {
 
 
@@ -27,6 +20,7 @@ public class NO1Fragment extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_no1, container, false);
+        //广泛大概豆腐干大概
     }
 
 }
